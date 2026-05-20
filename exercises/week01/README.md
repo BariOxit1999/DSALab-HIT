@@ -3,7 +3,6 @@
 ## 🎯 Mục tiêu tuần này
 Hiểu Big-O, phân tích độ phức tạp, ôn tập C++ cơ bản.
 
----
 
 ### Bài 1: Phân tích Big-O ⭐
 Xác định Big-O của 10 đoạn code C++ cho trước. Giải thích tại sao.
